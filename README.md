@@ -1,8 +1,8 @@
 # Comparitive-Study-on-Fashion-MNIST-Dataset-based-on-various-Hyperparameters
 
-Model Descriptions
+#Model Descriptions
 
-Model 1:
+##Model 1:
   ● Activation function: ReLu
   ● Loss function: Categorical cross entropy
   ● Number of hidden layers: 1
